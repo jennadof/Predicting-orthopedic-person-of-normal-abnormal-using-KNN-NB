@@ -1,9 +1,12 @@
-Section I : Accessing the Data
+# Predicting-orthopedic-person-of-normal-abnormal-using-KNN-NB
 
-Make a pandas DataFrame from the CSV
-How many variables does the dataset contain?
-What is the data about?
-What are we trying to predict here?
+
+## Section I : Accessing the Data
+
+- Make a pandas DataFrame from the CSV
+- How many variables does the dataset contain?
+- What is the data about?
+- What are we trying to predict here?
 
 Section II : Exploratory Data Analysis
 
